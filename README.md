@@ -12,7 +12,7 @@
 
 
 ``` bash
-$ cd MQTT-TEST
+$ cd mqtt-test
 $ pip install -r compiled_requirements.txt
 ```
 
@@ -22,6 +22,6 @@ $ pip install -r compiled_requirements.txt
 
 
 ``` bash
-$ cd MQTT-TEST/src
+$ cd mqtt-test/src
 $ python init.py
 ```
