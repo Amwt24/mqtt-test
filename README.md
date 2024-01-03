@@ -13,7 +13,7 @@
 
 ``` bash
 $ cd mqtt-test
-$ pip install -r compiled_requirements.txt
+$ pip install -r requirements.txt
 ```
 
 2. Create a database and a table (Mysql)
