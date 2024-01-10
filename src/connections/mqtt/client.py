@@ -32,7 +32,7 @@ def connect_mqtt():
 
 def getMetaDataOnOS():
     current_datetime = datetime.now()
-    data = { "id": "juan","cpu": 30, "memory": 2, "net": 3, "temp": 5, "inserDT":current_datetime.strftime("%Y-%m-%d %H:%M:%S")}
+    data = { "id": "Amawta","cpu": 30, "memory": 2, "net": 3, "temp": 5, "inserDT":current_datetime.strftime("%Y-%m-%d %H:%M:%S")}
 
     # Convert the dictionary to a JSON string
     json_string = json.dumps(data, indent=2)  # The indent parameter is optional and adds indentation for better readability
